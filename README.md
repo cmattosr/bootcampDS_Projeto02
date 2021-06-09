@@ -45,4 +45,5 @@ https://github.com/gustavolq/Imersao-Dados-Alura <br>
 https://github.com/Pedro-correa-almeida/imersao-dados-desafio-final <br>
 https://colab.research.google.com/drive/1LO7paa2ArAY7I9hMzTT4Oz34l6m9K9SG?usp=sharing <br>
 https://colab.research.google.com/drive/1egYeRJpwKIlrBKtBujyj5E2KW8L5HDn8?usp=sharing <br>
+
 Qualquer dúvida é só nos procurar no Discord do Bootcamp! Bom mergulho!
