@@ -12,6 +12,8 @@ Trabalharemos com os seguintes estados:
 - Minas Gerais, região Sudeste
 - Rio Grande do Sul, região Sul
 
+![Mapa regioes BR](https://github.com/cmattosr/bootcampDS_Projeto02/raw/main/imagens/mapa_regioes.jpg)
+
 <hr>
 
 Olá Cientista!
