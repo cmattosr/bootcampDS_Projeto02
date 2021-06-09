@@ -1,6 +1,16 @@
 # bootcampDS_Projeto02
 Este é o projeto de conclusão do Módulo 02 do Bootcamp de Data Science 
 
+## Objetivo
+
+Vamos analisar qual é a distribuição vacinal de acordo com a faixa etária, e vamos trabalhar com um estado de cada região paras podermos explorar toda a diversidade nacional devido ao tamanho do território
+
+Trabalharemos com os seguintes estados:
+- Amazonas, região Norte
+- Pernambuco, região Nordeste
+- Goiás, região Centro-Oeste
+- Minas Gerais, região Sudeste
+- Rio Grande do Sul, região Sul
 
 <hr>
 
