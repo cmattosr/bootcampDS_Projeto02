@@ -28,9 +28,9 @@ Citar e trazer as fontes de todo o conteúdo que apresentar e não for de sua au
 
 Aqui temos alguns exemplos de repositórios bem estruturados, com bons readme, e também de notebooks bem organizados:
 
-https://github.com/CidSantiago/imersao-dados-desafio-final
-https://github.com/gustavolq/Imersao-Dados-Alura
-https://github.com/Pedro-correa-almeida/imersao-dados-desafio-final
-https://colab.research.google.com/drive/1LO7paa2ArAY7I9hMzTT4Oz34l6m9K9SG?usp=sharing
-https://colab.research.google.com/drive/1egYeRJpwKIlrBKtBujyj5E2KW8L5HDn8?usp=sharing
+https://github.com/CidSantiago/imersao-dados-desafio-final <br> 
+https://github.com/gustavolq/Imersao-Dados-Alura <br>
+https://github.com/Pedro-correa-almeida/imersao-dados-desafio-final <br>
+https://colab.research.google.com/drive/1LO7paa2ArAY7I9hMzTT4Oz34l6m9K9SG?usp=sharing <br>
+https://colab.research.google.com/drive/1egYeRJpwKIlrBKtBujyj5E2KW8L5HDn8?usp=sharing <br>
 Qualquer dúvida é só nos procurar no Discord do Bootcamp! Bom mergulho!
