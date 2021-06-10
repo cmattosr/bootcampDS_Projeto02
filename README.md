@@ -15,6 +15,7 @@ Demonstrar através dos dados disponibilizados pelo Datasus que os resultados do
     * Rio Grande do Sul, região Sul
 - Período: de 1995 até 2020
 - Doença: Sarampo
+- Faixa etária: de 1 a 29 anos
 
 ## O que é o Programa Nacional de Imunizações - PNI
 
@@ -43,6 +44,28 @@ ref: http://pni.datasus.gov.br/apresentacao.asp
 o movimento antivacinação foi incluído pela Organização Mundial de Saúde (OMS) em seu relatório sobre os dez maiores riscos à saúde global. De acordo com a Organização, os movimentos antivacina são tão perigosos quanto os vírus que aparecem nesta lista porque ameaçam reverter o progresso alcançado no combate a doenças evitáveis por vacinação, como o sarampo e a poliomielite. Ainda segundo a OMS, as razões pelas quais as pessoas escolhem não se vacinar são complexas, e incluem falta de confiança, complacência e dificuldades no acesso a elas. Há também os que alegam motivos religiosos para não se vacinar ou a seus filhos. “A vacinação é uma das formas mais eficientes, em termos de custo, para evitar doenças. Ela atualmente evita de 2 a 3 milhões de mortes por ano, e outro 1,5 milhão poderia ser evitado se a cobertura vacinal fosse melhorada no mundo”, afirma a OMS.
 
 Entretanto, os movimentos antivacina vêm crescendo no mundo todo, inclusive no Brasil, que sempre foi exemplo internacional. Segundo dados do Programa Nacional de Imunizações do Ministério da Saúde (PNI/MS), nos últimos dois anos a meta de ter 95% da população-alvo vacinada não foi alcançada. Vacinas importantes como a Tetra Viral, que previne o sarampo, caxumba, rubéola e varicela, teve o menor índice de cobertura: 70,69% em 2017. De acordo com especialistas em saúde pública, se a vacinação da população brasileira fosse adequada, um novo surto de sarampo não se estabeleceria no País. Segundo o Ministério da Saúde, anualmente são aplicados cerca de 300 milhões de doses de 25 diferentes tipos de vacinas, em 36 mil postos de saúde espalhados por todo o Brasil. Ou seja, não faltam vacinas gratuitas e nem acesso a elas.
+
+ref: https://www.sbmt.org.br/portal/anti-vaccine-movement-is-one-of-the-ten-threats-to-global-health/
+
+# Sarampo
+
+O sarampo é uma doença causada por um vírus com elevado poder de contágio, transmitido por meio do contato direto (por tosse, espirros ou outras secreções) e pelo ar. Os principais sintomas são febre alta, dor de cabeça, manchas vermelhas na pele (que surgem primeiro no rosto e se espalham pelo corpo), tosse, coriza e conjuntivite. De acordo com a Opas, a doença é uma das principais causas de morte entre crianças pequenas, mesmo havendo uma vacina segura e eficaz para preveni-la. Em 2016, cerca de 85% das crianças receberam ao menos uma dose da vacina contra o sarampo — contra 70% em 2000. Segundo a OMS, a vacinação levou a uma queda de 84% nas mortes pela doença em todo o mundo entre 2000 e 2016 — neste último ano, ainda foram registradas 89.780 mortes, mas foi a primeira vez que esse número foi inferior aos 100 mil notificados a cada ano. A estimativa da organização é que, desde o ano 2000, a vacina tenha evitado mais de 20 milhões de mortes no mundo.
+
+ref: https://portal.fiocruz.br/noticia/sarampo-de-volta-ao-mapa
+
+## Sarampo de volta ao mapa
+
+Depois de ser eliminado das Américas em 2016 segundo a Organização Mundial da Saúde (OMS), o sarampo voltou a ser uma preocupação brasileira com a ocorrência de dois surtos em 2018 nos estados de Roraima e Amazonas, além de casos confirmados até o momento em São Paulo, Rio Grande do Sul, Rondônia e Rio de Janeiro. Como a única forma de prevenção é a vacina, a baixa cobertura vacinal é apontada como principal causa para a doença ter retornado ao país: a meta de vacinação contra o sarampo é de 95%, mas em 2017 a cobertura foi de 84,9% na primeira dose e de 71,5% na segunda, de acordo com o próprio Ministério da Saúde.
+
+O sarampo é uma doença infecciosa aguda, transmissível e extremamente contagiosa, o que explica o número elevado de ocorrências nos dois estados: o Amazonas confirmou 444 casos e outros 2.529 permanecem em investigação, enquanto Roraima teve 216 confirmações e 160 ainda investigados, até o boletim epidemiológico do Ministério da Saúde de 17 de julho. De acordo com o órgão, os surtos estão relacionados à importação de casos da Venezuela, onde a doença já atingiu nove dos 23 estados do país. Em fevereiro, a Secretaria de Saúde do Estado de Roraima notificou o primeiro caso suspeito de sarampo, em uma criança venezuelana de um ano de idade, que apresentou febre e manchas na pele, acompanhadas de tosse, coriza e conjuntivite. Atualmente, dos 216 casos confirmados no estado, 142 são de venezuelanos que residem no país e 72 de brasileiros, além de um procedente da Guiana e outro da Argentina. Outro dado relevante para a saúde pública é que 89 dos registros da doença no estado são entre indígenas.
+
+Já o Amazonas também voltou ao mapa do sarampo — do qual já não fazia parte desde o ano 2000 — e registra o maior número de ocorrências este ano. Segundo o Ministério da Saúde, até o momento, todos os 444 casos confirmados no estado são de brasileiros e apresentam o genótipo D8, idêntico ao do vírus que circula atualmente em Roraima e na Venezuela. Mais de 85% das pessoas que tiveram a doença residem na capital, Manaus, e quase a metade dos registros se concentram em crianças menores de 5 anos de idade (48,7%). Já o Rio de Janeiro confirmou 7 casos da doença desde junho; de acordo com a Secretaria Estadual de Saúde, todos têm ligação com a Faculdade de Direito da UFRJ e estão relacionados ao episódio da estudante que foi diagnosticada com a doença em junho, depois de participar dos Jogos Jurídicos em Petrópolis, na Região Serrana. Até o momento, outros casos também foram confirmados em São Paulo (1), Rio Grande do Sul (8) e Rondônia (1).
+
+Desde 2016, o Brasil possui o certificado da Organização Pan-americana da Saúde (Opas) como país livre do sarampo. Para Luiz Antonio Camacho, pesquisador do Departamento de Epidemiologia e Métodos Quantitativos em Saúde da Escola Nacional de Saúde Pública Sérgio Arouca (ENSP/Fiocruz), o certificado de eliminação não significa erradicação. “Erradicação, podemos falar somente da varíola, pois erradicamos a espécie, e o vírus não circula em nenhuma parte do mundo. Sarampo nunca alcançou isso”, declarou ao Informe ENSP (10/7). Segundo ele, algumas regiões têm cobertura vacinal abaixo da média e isso possibilita que o sarampo se espalhe. “Basta vir um caso, atingir esses suscetíveis, e a doença se espalha rapidamente”, completou.
+
+## Desenvolvimento do Trabalho
+
+No notebook deste repositório estará todo o desenvolvimento do trabalho, desde a captura dos dados, limpeza, desenvolvimento de hipóteses, análises, visualização dos dados, até a conclusão, onde verificaremos se as premissas estão corretas.
 
 
 ![Defenda o SUS](https://github.com/cmattosr/bootcampDS_Projeto02/raw/main/imagens/defenda_o_sus.jpg)
