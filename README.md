@@ -47,7 +47,7 @@ Entretanto, os movimentos antivacina vêm crescendo no mundo todo, inclusive no 
 
 ref: https://www.sbmt.org.br/portal/anti-vaccine-movement-is-one-of-the-ten-threats-to-global-health/
 
-# Sarampo
+## Sarampo
 
 O sarampo é uma doença causada por um vírus com elevado poder de contágio, transmitido por meio do contato direto (por tosse, espirros ou outras secreções) e pelo ar. Os principais sintomas são febre alta, dor de cabeça, manchas vermelhas na pele (que surgem primeiro no rosto e se espalham pelo corpo), tosse, coriza e conjuntivite. De acordo com a Opas, a doença é uma das principais causas de morte entre crianças pequenas, mesmo havendo uma vacina segura e eficaz para preveni-la. Em 2016, cerca de 85% das crianças receberam ao menos uma dose da vacina contra o sarampo — contra 70% em 2000. Segundo a OMS, a vacinação levou a uma queda de 84% nas mortes pela doença em todo o mundo entre 2000 e 2016 — neste último ano, ainda foram registradas 89.780 mortes, mas foi a primeira vez que esse número foi inferior aos 100 mil notificados a cada ano. A estimativa da organização é que, desde o ano 2000, a vacina tenha evitado mais de 20 milhões de mortes no mundo.
 
