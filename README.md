@@ -69,20 +69,20 @@ Já o Amazonas também voltou ao mapa do sarampo — do qual já não fazia part
 
 Desde 2016, o Brasil possui o certificado da Organização Pan-americana da Saúde (Opas) como país livre do sarampo. Para Luiz Antonio Camacho, pesquisador do Departamento de Epidemiologia e Métodos Quantitativos em Saúde da Escola Nacional de Saúde Pública Sérgio Arouca (ENSP/Fiocruz), o certificado de eliminação não significa erradicação. “Erradicação, podemos falar somente da varíola, pois erradicamos a espécie, e o vírus não circula em nenhuma parte do mundo. Sarampo nunca alcançou isso”, declarou ao Informe ENSP (10/7). Segundo ele, algumas regiões têm cobertura vacinal abaixo da média e isso possibilita que o sarampo se espalhe. “Basta vir um caso, atingir esses suscetíveis, e a doença se espalha rapidamente”, completou.
 
-    ### Infecção por sarampo aumentou em 2019
-    _ 17/11/2020 Por: Paulo Schueler (Bio-Manguinhos/Fiocruz)_ 
+### Infecção por sarampo aumentou em 2019
+_ 17/11/2020 Por: Paulo Schueler (Bio-Manguinhos/Fiocruz)_ 
 
-    A infecção por sarampo aumentou em todo o mundo em 2019, atingindo o maior número de casos notificados em 23 anos. O relato está em publicação da Organização Mundial da Saúde (OMS) e do Centro para Controle e Prevenção de Doenças (CDC) dos Estados Unidos.
+A infecção por sarampo aumentou em todo o mundo em 2019, atingindo o maior número de casos notificados em 23 anos. O relato está em publicação da Organização Mundial da Saúde (OMS) e do Centro para Controle e Prevenção de Doenças (CDC) dos Estados Unidos.
 
-    O material informa que os casos de sarampo atingiram o número de 869.770 em 2019, o maior desde 1996, e as mortes por sarampo aumentaram quase 50% desde 2016, ceifando 207.500 vidas apenas em 2019.
+O material informa que os casos de sarampo atingiram o número de 869.770 em 2019, o maior desde 1996, e as mortes por sarampo aumentaram quase 50% desde 2016, ceifando 207.500 vidas apenas em 2019.
 
-    De acordo com a OMS, “após um progresso global e constante de queda entre 2010 e 2016, o número de casos notificados de sarampo subiu progressivamente até 2019”. Comparando os dados de 2019 com o menor dado anual da série histórica de notificação de casos, em 2016, os autores identificaram “uma falha em vacinar crianças a tempo com duas doses de sarampo como o principal impulsionador desses aumentos de casos e mortes”.
+De acordo com a OMS, “após um progresso global e constante de queda entre 2010 e 2016, o número de casos notificados de sarampo subiu progressivamente até 2019”. Comparando os dados de 2019 com o menor dado anual da série histórica de notificação de casos, em 2016, os autores identificaram “uma falha em vacinar crianças a tempo com duas doses de sarampo como o principal impulsionador desses aumentos de casos e mortes”.
 
-    “Nós sabemos como prevenir surtos e mortes de sarampo”, afirmou o diretor-geral da OMS, Tedros Adhanom Ghebreyesus. “Esses dados enviam uma mensagem clara de que não estamos conseguindo proteger as crianças contra o sarampo em todas as regiões do mundo. Devemos trabalhar coletivamente para apoiar os países e envolver as comunidades para alcançar todos, em todos os lugares, com a vacina contra o sarampo e deter este vírus mortal”, complementou.
+“Nós sabemos como prevenir surtos e mortes de sarampo”, afirmou o diretor-geral da OMS, Tedros Adhanom Ghebreyesus. “Esses dados enviam uma mensagem clara de que não estamos conseguindo proteger as crianças contra o sarampo em todas as regiões do mundo. Devemos trabalhar coletivamente para apoiar os países e envolver as comunidades para alcançar todos, em todos os lugares, com a vacina contra o sarampo e deter este vírus mortal”, complementou.
 
-    Os surtos de sarampo ocorrem quando as pessoas que não estão protegidas do vírus são infectadas e transmitem a doença a populações não vacinadas ou subvacinadas. Para controlar o sarampo e prevenir surtos e mortes, as taxas de cobertura vacinal devem chegar a 95% e serem mantidas. “A cobertura da primeira dose está estagnada globalmente há mais de uma década, entre 84% e 8%. A cobertura da segunda dose aumenta constantemente, mas está em apenas 71%. A cobertura vacinal contra o sarampo permanece bem abaixo dos 95% necessários para ambas as doses”, informa a OMS.
+Os surtos de sarampo ocorrem quando as pessoas que não estão protegidas do vírus são infectadas e transmitem a doença a populações não vacinadas ou subvacinadas. Para controlar o sarampo e prevenir surtos e mortes, as taxas de cobertura vacinal devem chegar a 95% e serem mantidas. “A cobertura da primeira dose está estagnada globalmente há mais de uma década, entre 84% e 8%. A cobertura da segunda dose aumenta constantemente, mas está em apenas 71%. A cobertura vacinal contra o sarampo permanece bem abaixo dos 95% necessários para ambas as doses”, informa a OMS.
 
-    ref: https://portal.fiocruz.br/noticia/infeccao-por-sarampo-aumentou-em-2019
+ref: https://portal.fiocruz.br/noticia/infeccao-por-sarampo-aumentou-em-2019
 
 ## Vacina Contra o Sarampo
 
