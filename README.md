@@ -39,11 +39,11 @@ O PNI é, hoje, parte integrante do Programa da Organização Mundial de Saúde,
 
 ref: http://pni.datasus.gov.br/apresentacao.asp
 
-## Cobewrtura Vacinal
+## Cobertura Vacinal
 
+Esse termo refere-se ao percentual (o número de doses aplicadas de determinado imunobiológico dividido pela população alvo e multiplicado por 100) da população que está vacinada. Quanto mais pessoas receberem determinada vacina, maior será a cobertura vacinal. A eliminação ou controle de qualquer doença imunoprevenível depende da obtenção desse índice de sucesso
 
-
-ref: 
+ref: https://familia.sbim.org.br/vacinas/conceitos-importantes
 
 ## Movimento Antivacina
 
