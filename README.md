@@ -67,9 +67,9 @@ Desde 2016, o Brasil possui o certificado da Organização Pan-americana da Saú
 
 No notebook deste repositório estará todo o desenvolvimento do trabalho, desde a captura dos dados, limpeza, desenvolvimento de hipóteses, análises, visualização dos dados, até a conclusão, onde verificaremos se as premissas estão corretas.
 
-
-![Defenda o SUS](https://github.com/cmattosr/bootcampDS_Projeto02/raw/main/imagens/defenda_o_sus.jpg)
-
+<p align="center">
+  <img src="https://github.com/cmattosr/bootcampDS_Projeto02/raw/main/imagens/defenda_o_sus.jpg">
+</p>
 
 <hr>
 
