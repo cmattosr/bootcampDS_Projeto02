@@ -13,7 +13,7 @@ Demonstrar através dos dados disponibilizados pelo Datasus que os resultados do
     * Goiás, região Centro-Oeste
     * São Paulo, região Sudeste
     * Rio Grande do Sul, região Sul
-- Período: de 1994 até 2021
+- Período: de 1995 até 2020
 - Doença: Sarampo
 
 ## O que é o Programa Nacional de Imunizações - PNI
