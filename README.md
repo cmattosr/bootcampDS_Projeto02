@@ -69,7 +69,7 @@ Já o Amazonas também voltou ao mapa do sarampo — do qual já não fazia part
 
 Desde 2016, o Brasil possui o certificado da Organização Pan-americana da Saúde (Opas) como país livre do sarampo. Para Luiz Antonio Camacho, pesquisador do Departamento de Epidemiologia e Métodos Quantitativos em Saúde da Escola Nacional de Saúde Pública Sérgio Arouca (ENSP/Fiocruz), o certificado de eliminação não significa erradicação. “Erradicação, podemos falar somente da varíola, pois erradicamos a espécie, e o vírus não circula em nenhuma parte do mundo. Sarampo nunca alcançou isso”, declarou ao Informe ENSP (10/7). Segundo ele, algumas regiões têm cobertura vacinal abaixo da média e isso possibilita que o sarampo se espalhe. “Basta vir um caso, atingir esses suscetíveis, e a doença se espalha rapidamente”, completou.
 
-### Infecção por sarampo aumentou em 2019
+## Infecção por sarampo aumentou em 2019
 > 17/11/2020 Por: Paulo Schueler (Bio-Manguinhos/Fiocruz)
 
 A infecção por sarampo aumentou em todo o mundo em 2019, atingindo o maior número de casos notificados em 23 anos. O relato está em publicação da Organização Mundial da Saúde (OMS) e do Centro para Controle e Prevenção de Doenças (CDC) dos Estados Unidos.
