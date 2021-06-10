@@ -3,7 +3,7 @@ Este é o projeto de conclusão do Módulo 02 do Bootcamp de Data Science
 
 ## Objetivo e Premissa
 
-Demonstrar através dos dados disponibilizados pelo Datasus que os resultados do Programa Nacional de Imunização na saúde dos brasileiros é muito importante para mantermos o controle de doenças ainda ativas e mesmo daquelas consideradas erradicadas, e que a falta de aderência da população aos planos de vacinação tem um impacto na vida de muitas pessoas. Vamos analisar os dados de cinco estados brasileiros, sendo um de cada região, para trabalharmos de fora a cobrir uma grande extensão territorial e considerando as diferenças climáticas, sociais e culturais de cada região.
+Demonstrar através dos dados disponibilizados pelo Datasus que os resultados do Programa Nacional de Imunização na saúde dos brasileiros é muito importante para mantermos o controle de doenças ainda ativas e mesmo daquelas consideradas erradicadas, e que a falta de aderência da população aos planos de vacinação tem um impacto na vida de muitas pessoas. Vamos analisar os dados de cinco estados brasileiros, sendo um de cada região, para trabalharmos de forma a cobrir uma grande extensão territorial e considerando as diferenças climáticas, sociais e culturais de cada região.
 
 ## Definicão de Escopo
 
@@ -13,7 +13,7 @@ Demonstrar através dos dados disponibilizados pelo Datasus que os resultados do
     * Goiás, região Centro-Oeste
     * São Paulo, região Sudeste
     * Rio Grande do Sul, região Sul
-- Período: de 1995 até 2020
+- Período: de 2009 até 2020
 - Doença: Sarampo
 - Faixa etária: de 1 a 29 anos
 
@@ -39,9 +39,15 @@ O PNI é, hoje, parte integrante do Programa da Organização Mundial de Saúde,
 
 ref: http://pni.datasus.gov.br/apresentacao.asp
 
+## Cobewrtura Vacinal
+
+
+
+ref: 
+
 ## Movimento Antivacina
 
-o movimento antivacinação foi incluído pela Organização Mundial de Saúde (OMS) em seu relatório sobre os dez maiores riscos à saúde global. De acordo com a Organização, os movimentos antivacina são tão perigosos quanto os vírus que aparecem nesta lista porque ameaçam reverter o progresso alcançado no combate a doenças evitáveis por vacinação, como o sarampo e a poliomielite. Ainda segundo a OMS, as razões pelas quais as pessoas escolhem não se vacinar são complexas, e incluem falta de confiança, complacência e dificuldades no acesso a elas. Há também os que alegam motivos religiosos para não se vacinar ou a seus filhos. “A vacinação é uma das formas mais eficientes, em termos de custo, para evitar doenças. Ela atualmente evita de 2 a 3 milhões de mortes por ano, e outro 1,5 milhão poderia ser evitado se a cobertura vacinal fosse melhorada no mundo”, afirma a OMS.
+O movimento antivacinação foi incluído pela Organização Mundial de Saúde (OMS) em seu relatório sobre os dez maiores riscos à saúde global. De acordo com a Organização, os movimentos antivacina são tão perigosos quanto os vírus que aparecem nesta lista porque ameaçam reverter o progresso alcançado no combate a doenças evitáveis por vacinação, como o sarampo e a poliomielite. Ainda segundo a OMS, as razões pelas quais as pessoas escolhem não se vacinar são complexas, e incluem falta de confiança, complacência e dificuldades no acesso a elas. Há também os que alegam motivos religiosos para não se vacinar ou a seus filhos. “A vacinação é uma das formas mais eficientes, em termos de custo, para evitar doenças. Ela atualmente evita de 2 a 3 milhões de mortes por ano, e outro 1,5 milhão poderia ser evitado se a cobertura vacinal fosse melhorada no mundo”, afirma a OMS.
 
 Entretanto, os movimentos antivacina vêm crescendo no mundo todo, inclusive no Brasil, que sempre foi exemplo internacional. Segundo dados do Programa Nacional de Imunizações do Ministério da Saúde (PNI/MS), nos últimos dois anos a meta de ter 95% da população-alvo vacinada não foi alcançada. Vacinas importantes como a Tetra Viral, que previne o sarampo, caxumba, rubéola e varicela, teve o menor índice de cobertura: 70,69% em 2017. De acordo com especialistas em saúde pública, se a vacinação da população brasileira fosse adequada, um novo surto de sarampo não se estabeleceria no País. Segundo o Ministério da Saúde, anualmente são aplicados cerca de 300 milhões de doses de 25 diferentes tipos de vacinas, em 36 mil postos de saúde espalhados por todo o Brasil. Ou seja, não faltam vacinas gratuitas e nem acesso a elas.
 
@@ -62,6 +68,21 @@ O sarampo é uma doença infecciosa aguda, transmissível e extremamente contagi
 Já o Amazonas também voltou ao mapa do sarampo — do qual já não fazia parte desde o ano 2000 — e registra o maior número de ocorrências este ano. Segundo o Ministério da Saúde, até o momento, todos os 444 casos confirmados no estado são de brasileiros e apresentam o genótipo D8, idêntico ao do vírus que circula atualmente em Roraima e na Venezuela. Mais de 85% das pessoas que tiveram a doença residem na capital, Manaus, e quase a metade dos registros se concentram em crianças menores de 5 anos de idade (48,7%). Já o Rio de Janeiro confirmou 7 casos da doença desde junho; de acordo com a Secretaria Estadual de Saúde, todos têm ligação com a Faculdade de Direito da UFRJ e estão relacionados ao episódio da estudante que foi diagnosticada com a doença em junho, depois de participar dos Jogos Jurídicos em Petrópolis, na Região Serrana. Até o momento, outros casos também foram confirmados em São Paulo (1), Rio Grande do Sul (8) e Rondônia (1).
 
 Desde 2016, o Brasil possui o certificado da Organização Pan-americana da Saúde (Opas) como país livre do sarampo. Para Luiz Antonio Camacho, pesquisador do Departamento de Epidemiologia e Métodos Quantitativos em Saúde da Escola Nacional de Saúde Pública Sérgio Arouca (ENSP/Fiocruz), o certificado de eliminação não significa erradicação. “Erradicação, podemos falar somente da varíola, pois erradicamos a espécie, e o vírus não circula em nenhuma parte do mundo. Sarampo nunca alcançou isso”, declarou ao Informe ENSP (10/7). Segundo ele, algumas regiões têm cobertura vacinal abaixo da média e isso possibilita que o sarampo se espalhe. “Basta vir um caso, atingir esses suscetíveis, e a doença se espalha rapidamente”, completou.
+
+        ### Infecção por sarampo aumentou em 2019
+        _ 17/11/2020 Por: Paulo Schueler (Bio-Manguinhos/Fiocruz)_ 
+
+        A infecção por sarampo aumentou em todo o mundo em 2019, atingindo o maior número de casos notificados em 23 anos. O relato está em publicação da Organização Mundial da Saúde (OMS) e do Centro para Controle e Prevenção de Doenças (CDC) dos Estados Unidos.
+
+        O material informa que os casos de sarampo atingiram o número de 869.770 em 2019, o maior desde 1996, e as mortes por sarampo aumentaram quase 50% desde 2016, ceifando 207.500 vidas apenas em 2019.
+
+        De acordo com a OMS, “após um progresso global e constante de queda entre 2010 e 2016, o número de casos notificados de sarampo subiu progressivamente até 2019”. Comparando os dados de 2019 com o menor dado anual da série histórica de notificação de casos, em 2016, os autores identificaram “uma falha em vacinar crianças a tempo com duas doses de sarampo como o principal impulsionador desses aumentos de casos e mortes”.
+
+        “Nós sabemos como prevenir surtos e mortes de sarampo”, afirmou o diretor-geral da OMS, Tedros Adhanom Ghebreyesus. “Esses dados enviam uma mensagem clara de que não estamos conseguindo proteger as crianças contra o sarampo em todas as regiões do mundo. Devemos trabalhar coletivamente para apoiar os países e envolver as comunidades para alcançar todos, em todos os lugares, com a vacina contra o sarampo e deter este vírus mortal”, complementou.
+
+        Os surtos de sarampo ocorrem quando as pessoas que não estão protegidas do vírus são infectadas e transmitem a doença a populações não vacinadas ou subvacinadas. Para controlar o sarampo e prevenir surtos e mortes, as taxas de cobertura vacinal devem chegar a 95% e serem mantidas. “A cobertura da primeira dose está estagnada globalmente há mais de uma década, entre 84% e 8%. A cobertura da segunda dose aumenta constantemente, mas está em apenas 71%. A cobertura vacinal contra o sarampo permanece bem abaixo dos 95% necessários para ambas as doses”, informa a OMS.
+
+        ref: https://portal.fiocruz.br/noticia/infeccao-por-sarampo-aumentou-em-2019
 
 ## Vacina Contra o Sarampo
 
