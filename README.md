@@ -10,7 +10,7 @@ Demonstrar através dos dados disponibilizados pelo Datasus, entre outras fontes
 - Local: Todos os Estados Brasileiros
 - Período: de 2009 até 2020
 - Doença: Febre Amarela
-- Faixa etária: de 1 a 29 anos
+- Todas as faixas etárias
 
 ## O que é o Programa Nacional de Imunizações - PNI
 
