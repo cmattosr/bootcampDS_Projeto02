@@ -3,18 +3,13 @@ Este é o projeto de conclusão do Módulo 02 do Bootcamp de Data Science
 
 ## Objetivo e Premissa
 
-Demonstrar através dos dados disponibilizados pelo Datasus que os resultados do Programa Nacional de Imunização na saúde dos brasileiros é muito importante para mantermos o controle de doenças ainda ativas e mesmo daquelas consideradas erradicadas, e que a falta de aderência da população aos planos de vacinação tem um impacto na vida de muitas pessoas. Vamos analisar os dados de cinco estados brasileiros, sendo um de cada região, para trabalharmos de forma a cobrir uma grande extensão territorial e considerando as diferenças climáticas, sociais e culturais de cada região.
+Demonstrar através dos dados disponibilizados pelo Datasus, entre outras fontes, que os resultados do Programa Nacional de Imunização na saúde dos brasileiros é muito importante para mantermos o controle de doenças ainda ativas e mesmo daquelas consideradas erradicadas, e que a falta de aderência da população aos planos de vacinação tem um impacto na vida de muitas pessoas. Vamos analisar os dados dos estados brasileiros e tentar encontrar informações que tragam luz sobre o impacto da vacinação e da não vacinação sobre a saúde dos brasileiros.
 
 ## Definicão de Escopo
 
-- Locais:
-    * Amazonas, região Norte
-    * Pernambuco, região Nordeste
-    * Goiás, região Centro-Oeste
-    * São Paulo, região Sudeste
-    * Rio Grande do Sul, região Sul
+- Local: Todos os Estados Brasileiros
 - Período: de 2009 até 2020
-- Doença: Sarampo
+- Doença: Febre Amarela
 - Faixa etária: de 1 a 29 anos
 
 ## O que é o Programa Nacional de Imunizações - PNI
@@ -53,48 +48,35 @@ Entretanto, os movimentos antivacina vêm crescendo no mundo todo, inclusive no 
 
 ref: https://www.sbmt.org.br/portal/anti-vaccine-movement-is-one-of-the-ten-threats-to-global-health/
 
-## Sarampo
+## Febre Amarela
 
-O sarampo é uma doença causada por um vírus com elevado poder de contágio, transmitido por meio do contato direto (por tosse, espirros ou outras secreções) e pelo ar. Os principais sintomas são febre alta, dor de cabeça, manchas vermelhas na pele (que surgem primeiro no rosto e se espalham pelo corpo), tosse, coriza e conjuntivite. De acordo com a Opas, a doença é uma das principais causas de morte entre crianças pequenas, mesmo havendo uma vacina segura e eficaz para preveni-la. Em 2016, cerca de 85% das crianças receberam ao menos uma dose da vacina contra o sarampo — contra 70% em 2000. Segundo a OMS, a vacinação levou a uma queda de 84% nas mortes pela doença em todo o mundo entre 2000 e 2016 — neste último ano, ainda foram registradas 89.780 mortes, mas foi a primeira vez que esse número foi inferior aos 100 mil notificados a cada ano. A estimativa da organização é que, desde o ano 2000, a vacina tenha evitado mais de 20 milhões de mortes no mundo.
+A febre amarela é uma doença hemorrágica viral aguda potencialmente grave. O nome “amarela" refere-se à icterícia que afeta alguns pacientes. A febre amarela é causada por um vírus, do gênero flavivírus,  transmitido por mosquitos pertencentes às espécies Aedes (principalmente Aedes aegypti, responsável também por transmitir a Zika, a dengue e a chikungunya) e Haemogogus. As diferentes espécies de mosquitos vivem em diferentes habitats, o que determina três tipos de ciclos de transmissão:
 
-ref: https://portal.fiocruz.br/noticia/sarampo-de-volta-ao-mapa
+* Febre amarela silvestre (ou selvática): nas florestas tropicais, os macacos, que são o principal reservatório da febre amarela, são picados por mosquitos selvagens que passam o vírus para outros macacos. Ocasionalmente, os seres humanos que trabalham ou que viajam para a floresta são picados por mosquitos infectados e desenvolvem a doença.
 
-## Sarampo de volta ao mapa
+* Febre amarela intermediária: neste tipo de transmissão, os mosquitos semidomésticos (aqueles que se reproduzem tanto na natureza quanto em torno das famílias) infectam tanto macacos quanto pessoas. Este é o tipo mais comum de surto na África.
 
-Depois de ser eliminado das Américas em 2016 segundo a Organização Mundial da Saúde (OMS), o sarampo voltou a ser uma preocupação brasileira com a ocorrência de dois surtos em 2018 nos estados de Roraima e Amazonas, além de casos confirmados até o momento em São Paulo, Rio Grande do Sul, Rondônia e Rio de Janeiro. Como a única forma de prevenção é a vacina, a baixa cobertura vacinal é apontada como principal causa para a doença ter retornado ao país: a meta de vacinação contra o sarampo é de 95%, mas em 2017 a cobertura foi de 84,9% na primeira dose e de 71,5% na segunda, de acordo com o próprio Ministério da Saúde.
+* Febre amarela urbana: grandes epidemias ocorrem quando pessoas infectadas introduzem o vírus em áreas densamente povoadas com grande presença de mosquitos e onde a maioria das pessoas tem pouca ou nenhuma imunidade devido à falta de vacinação.
 
-O sarampo é uma doença infecciosa aguda, transmissível e extremamente contagiosa, o que explica o número elevado de ocorrências nos dois estados: o Amazonas confirmou 444 casos e outros 2.529 permanecem em investigação, enquanto Roraima teve 216 confirmações e 160 ainda investigados, até o boletim epidemiológico do Ministério da Saúde de 17 de julho. De acordo com o órgão, os surtos estão relacionados à importação de casos da Venezuela, onde a doença já atingiu nove dos 23 estados do país. Em fevereiro, a Secretaria de Saúde do Estado de Roraima notificou o primeiro caso suspeito de sarampo, em uma criança venezuelana de um ano de idade, que apresentou febre e manchas na pele, acompanhadas de tosse, coriza e conjuntivite. Atualmente, dos 216 casos confirmados no estado, 142 são de venezuelanos que residem no país e 72 de brasileiros, além de um procedente da Guiana e outro da Argentina. Outro dado relevante para a saúde pública é que 89 dos registros da doença no estado são entre indígenas.
+Uma pessoa não transmite a doença diretamente para outra; o macaco também não transmite a doença. É imprescindível a presença de mosquitos infectados agindo como vetores para que haja transmissão.
 
-Já o Amazonas também voltou ao mapa do sarampo — do qual já não fazia parte desde o ano 2000 — e registra o maior número de ocorrências este ano. Segundo o Ministério da Saúde, até o momento, todos os 444 casos confirmados no estado são de brasileiros e apresentam o genótipo D8, idêntico ao do vírus que circula atualmente em Roraima e na Venezuela. Mais de 85% das pessoas que tiveram a doença residem na capital, Manaus, e quase a metade dos registros se concentram em crianças menores de 5 anos de idade (48,7%). Já o Rio de Janeiro confirmou 7 casos da doença desde junho; de acordo com a Secretaria Estadual de Saúde, todos têm ligação com a Faculdade de Direito da UFRJ e estão relacionados ao episódio da estudante que foi diagnosticada com a doença em junho, depois de participar dos Jogos Jurídicos em Petrópolis, na Região Serrana. Até o momento, outros casos também foram confirmados em São Paulo (1), Rio Grande do Sul (8) e Rondônia (1).
+Geralmente, quem contrai o vírus não chega a apresentar sintomas ou os mesmos são muito fracos. As primeiras manifestações da doença são repentinas: febre alta, calafrios, cansaço, dor de cabeça, dor muscular, náuseas e vômitos por cerca de três dias.
 
-Desde 2016, o Brasil possui o certificado da Organização Pan-americana da Saúde (Opas) como país livre do sarampo. Para Luiz Antonio Camacho, pesquisador do Departamento de Epidemiologia e Métodos Quantitativos em Saúde da Escola Nacional de Saúde Pública Sérgio Arouca (ENSP/Fiocruz), o certificado de eliminação não significa erradicação. “Erradicação, podemos falar somente da varíola, pois erradicamos a espécie, e o vírus não circula em nenhuma parte do mundo. Sarampo nunca alcançou isso”, declarou ao Informe ENSP (10/7). Segundo ele, algumas regiões têm cobertura vacinal abaixo da média e isso possibilita que o sarampo se espalhe. “Basta vir um caso, atingir esses suscetíveis, e a doença se espalha rapidamente”, completou.
+A forma mais grave da doença é rara (só uma pequena proporção de pacientes que contraem o vírus desenvolve sintomas graves) e costuma aparecer após um breve período de bem-estar (até dois dias). A pessoa infectada pode apresentar insuficiências hepática e renal, icterícia (olhos e pele amarelados), manifestações hemorrágicas e cansaço, sintomas que podem resultar em morte num período de sete a 10 dias.
 
-## Infecção por sarampo aumentou em 2019
-> 17/11/2020 Por: Paulo Schueler (Bio-Manguinhos/Fiocruz)
+A maioria dos infectados se recupera bem e adquire imunização permanente contra o vírus, o que quer dizer que, depois de se recuperarem, não são mais suscetíveis à doença.
 
-A infecção por sarampo aumentou em todo o mundo em 2019, atingindo o maior número de casos notificados em 23 anos. O relato está em publicação da Organização Mundial da Saúde (OMS) e do Centro para Controle e Prevenção de Doenças (CDC) dos Estados Unidos.
+ref: https://www.msf.org.br/o-que-fazemos/atividades-medicas/febre-amarela
 
-O material informa que os casos de sarampo atingiram o número de 869.770 em 2019, o maior desde 1996, e as mortes por sarampo aumentaram quase 50% desde 2016, ceifando 207.500 vidas apenas em 2019.
+## Vacina febre amarela – FA
 
-De acordo com a OMS, “após um progresso global e constante de queda entre 2010 e 2016, o número de casos notificados de sarampo subiu progressivamente até 2019”. Comparando os dados de 2019 com o menor dado anual da série histórica de notificação de casos, em 2016, os autores identificaram “uma falha em vacinar crianças a tempo com duas doses de sarampo como o principal impulsionador desses aumentos de casos e mortes”.
+A vacinação contra febre amarela (VFA – atenuada) é a medida mais importante e eficaz para prevenção e controle da doença. A vacina usada no Brasil é produzida pelo Instituto de Tecnologia em Imunobiológicos (Bio-Manguinhos) da Fundação Oswaldo Cruz (Fiocruz) e consiste de vírus vivos atenuados da subcepa 17DD, cultivados em embrião de galinha. 
 
-“Nós sabemos como prevenir surtos e mortes de sarampo”, afirmou o diretor-geral da OMS, Tedros Adhanom Ghebreyesus. “Esses dados enviam uma mensagem clara de que não estamos conseguindo proteger as crianças contra o sarampo em todas as regiões do mundo. Devemos trabalhar coletivamente para apoiar os países e envolver as comunidades para alcançar todos, em todos os lugares, com a vacina contra o sarampo e deter este vírus mortal”, complementou.
+É um imunobiológico seguro e altamente eficaz na proteção contra a doença, com imunogenicidade de 90% a 98% de proteção. Os anticorpos protetores aparecem entre o sétimo e o décimo dia após a aplicação da vacina, razão pela qual a imunização deve ocorrer dez dias antes de se ingressar em área de risco da doença.
 
-Os surtos de sarampo ocorrem quando as pessoas que não estão protegidas do vírus são infectadas e transmitem a doença a populações não vacinadas ou subvacinadas. Para controlar o sarampo e prevenir surtos e mortes, as taxas de cobertura vacinal devem chegar a 95% e serem mantidas. “A cobertura da primeira dose está estagnada globalmente há mais de uma década, entre 84% e 8%. A cobertura da segunda dose aumenta constantemente, mas está em apenas 71%. A cobertura vacinal contra o sarampo permanece bem abaixo dos 95% necessários para ambas as doses”, informa a OMS.
+O esquema vacinal consiste em uma dose única a partir dos 9 meses de idade, a via de administração é subcutânea e o volume da dose é 0,5 mL.
 
-ref: https://portal.fiocruz.br/noticia/infeccao-por-sarampo-aumentou-em-2019
-
-## Vacina Contra o Sarampo
-
-A vacina contra o sarampo está disponível em duas versões, a vacina tríplice-viral, que protege contra 3 doenças causadas por vírus: sarampo, caxumba e rubéola, ou a Tetra Viral, que protege ainda da catapora. Esta vacina faz parte do calendário básico de vacinação da criança e é administrada em forma de injeção, a partir de vírus atenuados do sarampo.
-
-Esta vacina estimula o sistema imune do indivíduo, induzindo a formação de anticorpos contra o vírus do sarampo. Assim, se a pessoa for exposta ao vírus, já tem os anticorpos que vão impedir a proliferação dos vírus, deixando-a totalmente protegida.
-
-A vacina contra o sarampo serve para todas as pessoas como forma de prevenção da doença e não como tratamento. Além disso, também previne doenças como a caxumba e a rubéola, e no caso da Tetra Viral protege também da catapora.
-
-Geralmente, a primeira dose da vacina é administrada aos 12 meses e a segunda dose entre os 15 e os 24 meses. No entanto, todos os adolescentes e adultos que não tenham sido vacinados podem tomar 1 dose desta vacina em qualquer fase da vida, sem necessidade de reforço.
-
-ref: https://www.tuasaude.com/vacina-contra-sarampo/
+ref: https://portalarquivos2.saude.gov.br/images/pdf/2018/janeiro/18/Guia-febre-amarela-2018.pdf
 
 ## Desenvolvimento do Trabalho
 
