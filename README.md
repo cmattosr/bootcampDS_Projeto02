@@ -3,16 +3,20 @@ Este é o projeto de conclusão do Módulo 02 do Bootcamp de Data Science
 
 ## Objetivo e Premissa
 
-Demonstrar através dos dados disponibilizados pelo Datasus que os resultados do Programa Nacional de Imunização na saúde dos brasileiros é muito importante para mantermos o controle de doenças ainda ativas e mesmo daquelas consideradas erradicadas, e que a falta de aderência da população aos planos de vacinação tem um impacto na vida de muitas pessoas. Vamos analisar os dados de cinco estados brasileiros
+Demonstrar através dos dados disponibilizados pelo Datasus que os resultados do Programa Nacional de Imunização na saúde dos brasileiros é muito importante para mantermos o controle de doenças ainda ativas e mesmo daquelas consideradas erradicadas, e que a falta de aderência da população aos planos de vacinação tem um impacto na vida de muitas pessoas. Vamos analisar os dados de cinco estados brasileiros, sendo um de cada região, para trabalharmos de fora a cobrir uma grande extensão territorial e considerando as diferenças climáticas, sociais e culturais de cada região.
 
 ## Definicão de Escopo
 
-Locais:
+- Locais:
+    * Amazonas, região Norte
+    * Pernambuco, região Nordeste
+    * Goiás, região Centro-Oeste
+    * São Paulo, região Sudeste
+    * Rio Grande do Sul, região Sul
+- Período: de 1994 até 2021
+- Doença: Sarampo
 
-Período: de 1994 até 2021
-Doença: Sarampo
-
-## O que é o PNI
+## O que é o Programa Nacional de Imunizações - PNI
 
 O êxito das Campanhas de Vacinação contra a varíola na década dos anos sessenta, mostrou que a vacinação em massa tinha o poder de erradicar a doença. O último caso de varíola notificado no Brasil foi em 1971 e, no mundo em 1977 na Somália.
 
