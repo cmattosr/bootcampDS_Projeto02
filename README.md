@@ -63,6 +63,18 @@ Já o Amazonas também voltou ao mapa do sarampo — do qual já não fazia part
 
 Desde 2016, o Brasil possui o certificado da Organização Pan-americana da Saúde (Opas) como país livre do sarampo. Para Luiz Antonio Camacho, pesquisador do Departamento de Epidemiologia e Métodos Quantitativos em Saúde da Escola Nacional de Saúde Pública Sérgio Arouca (ENSP/Fiocruz), o certificado de eliminação não significa erradicação. “Erradicação, podemos falar somente da varíola, pois erradicamos a espécie, e o vírus não circula em nenhuma parte do mundo. Sarampo nunca alcançou isso”, declarou ao Informe ENSP (10/7). Segundo ele, algumas regiões têm cobertura vacinal abaixo da média e isso possibilita que o sarampo se espalhe. “Basta vir um caso, atingir esses suscetíveis, e a doença se espalha rapidamente”, completou.
 
+## Vacina Contra o Sarampo
+
+A vacina contra o sarampo está disponível em duas versões, a vacina tríplice-viral, que protege contra 3 doenças causadas por vírus: sarampo, caxumba e rubéola, ou a Tetra Viral, que protege ainda da catapora. Esta vacina faz parte do calendário básico de vacinação da criança e é administrada em forma de injeção, a partir de vírus atenuados do sarampo.
+
+Esta vacina estimula o sistema imune do indivíduo, induzindo a formação de anticorpos contra o vírus do sarampo. Assim, se a pessoa for exposta ao vírus, já tem os anticorpos que vão impedir a proliferação dos vírus, deixando-a totalmente protegida.
+
+A vacina contra o sarampo serve para todas as pessoas como forma de prevenção da doença e não como tratamento. Além disso, também previne doenças como a caxumba e a rubéola, e no caso da Tetra Viral protege também da catapora.
+
+Geralmente, a primeira dose da vacina é administrada aos 12 meses e a segunda dose entre os 15 e os 24 meses. No entanto, todos os adolescentes e adultos que não tenham sido vacinados podem tomar 1 dose desta vacina em qualquer fase da vida, sem necessidade de reforço.
+
+ref: https://www.tuasaude.com/vacina-contra-sarampo/
+
 ## Desenvolvimento do Trabalho
 
 No notebook deste repositório estará todo o desenvolvimento do trabalho, desde a captura dos dados, limpeza, desenvolvimento de hipóteses, análises, visualização dos dados, até a conclusão, onde verificaremos se as premissas estão corretas.
