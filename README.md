@@ -40,6 +40,10 @@ o movimento antivacinação foi incluído pela Organização Mundial de Saúde (
 
 Entretanto, os movimentos antivacina vêm crescendo no mundo todo, inclusive no Brasil, que sempre foi exemplo internacional. Segundo dados do Programa Nacional de Imunizações do Ministério da Saúde (PNI/MS), nos últimos dois anos a meta de ter 95% da população-alvo vacinada não foi alcançada. Vacinas importantes como a Tetra Viral, que previne o sarampo, caxumba, rubéola e varicela, teve o menor índice de cobertura: 70,69% em 2017. De acordo com especialistas em saúde pública, se a vacinação da população brasileira fosse adequada, um novo surto de sarampo não se estabeleceria no País. Segundo o Ministério da Saúde, anualmente são aplicados cerca de 300 milhões de doses de 25 diferentes tipos de vacinas, em 36 mil postos de saúde espalhados por todo o Brasil. Ou seja, não faltam vacinas gratuitas e nem acesso a elas.
 
+<center>
+![Defenda o SUS](https://github.com/cmattosr/bootcampDS_Projeto02/raw/main/imagens/defenda_o_sus.jpg)
+</center>
+
 <hr>
 
 Olá Cientista!
@@ -75,4 +79,4 @@ https://colab.research.google.com/drive/1egYeRJpwKIlrBKtBujyj5E2KW8L5HDn8?usp=sh
 Qualquer dúvida é só nos procurar no Discord do Bootcamp! Bom mergulho!
 
 
-![Mapa regioes BR](https://github.com/cmattosr/bootcampDS_Projeto02/raw/main/imagens/mapa_regioes.jpg)
+
