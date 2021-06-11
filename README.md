@@ -8,7 +8,7 @@ Demonstrar através dos dados disponibilizados pelo Datasus, entre outras fontes
 ## Definicão de Escopo
 
 - Local: Todos os Estados Brasileiros
-- Período: de 2009 até 2020
+- Período: de 2008 até 2020
 - Doença: Febre Amarela
 - Todas as faixas etárias
 
@@ -38,7 +38,9 @@ ref: http://pni.datasus.gov.br/apresentacao.asp
 
 Esse termo refere-se ao percentual (o número de doses aplicadas de determinado imunobiológico dividido pela população alvo e multiplicado por 100) da população que está vacinada. Quanto mais pessoas receberem determinada vacina, maior será a cobertura vacinal. A eliminação ou controle de qualquer doença imunoprevenível depende da obtenção desse índice de sucesso
 
-ref: https://familia.sbim.org.br/vacinas/conceitos-importantes
+A fórmula de cálculo da cobertura é o número de doses aplicadas da dose indicada (1ª, 2ª, 3ª dose ou dose única, conforme a vacina) dividida pela população alvo, multiplicado por 100. Exemplo: para a Tetravalente (DTP/Hib), considera-se o número de terceiras doses aplicadas na faixa etária de menores de 1 ano. Para a vacina oral de rotavírus humano, pode-se avaliar cobertura de 1ª e 2ª doses.
+
+ref: https://familia.sbim.org.br/vacinas/conceitos-importantes, http://tabnet.datasus.gov.br/cgi/pni/%5Ccpnidescr.htm
 
 ## Movimento Antivacina
 
